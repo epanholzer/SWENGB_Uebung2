@@ -9,7 +9,7 @@ public class  RightTriangle extends TriangularShape {
     public RightTriangle(int x, int y,double sideA, double sideB) {
         this.x=x;
         this.y=y;
-        this.sidea = sidea;
+        this.sideA = sideA;
         this.sideB = sideB;
     }
 
